@@ -1,4 +1,4 @@
 ### GitHub
 bonatt.gitlab.io
 
-I Started with GitLab and stuck with GitLab. 
+I started with GitLab and stuck with GitLab. 
